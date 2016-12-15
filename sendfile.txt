@@ -1,0 +1,15 @@
+İkinci dosyaya veri girişi.
+1
+2
+3
+4
+5
+a
+b
+c
+d
+e
+f
+112
+1123
+*0000#hashtag
